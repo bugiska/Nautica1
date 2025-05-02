@@ -10,7 +10,7 @@ const apiEmail = "zaakiraiman@gmail.com"; // Ganti dengan email yang kalian guna
 const accountID = "1af601e01c4b617c5849300a985c972a"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "87912e5af5b6620c97b79cba99ef99ea"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
-let proxyIP = "178.128.80.43";
+let proxyIP = "https://github.com/bugiska/Nautica/blob/main/rawProxyList.txt";
 let cachedProxyList = [];
 
 // Constant
