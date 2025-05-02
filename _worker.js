@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "terahost.biz.id"; // Ganti dengan domain utama kalian
+const rootDomain = "zaakiraiman.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "nautic"; // Ganti dengan nama workers kalian
 const apiKey = "MG6OfVHlw41RNh1MxFRZKzm3xDpnxVvpbZa-KJhB"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "zaakiraiman@gmail.com"; // Ganti dengan email yang kalian gunakan
