@@ -4,7 +4,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "zaakiraiman.workers.dev"; // Ganti dengan domain utama kalian
-const serviceName = "dev.speedtest.net"; // Ganti dengan nama workers kalian
+const serviceName = "nautic"; // Ganti dengan nama workers kalian
 const apiKey = "MG6OfVHlw41RNh1MxFRZKzm3xDpnxVvpbZa-KJhB"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "zaakiraiman@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "1af601e01c4b617c5849300a985c972a"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
